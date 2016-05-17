@@ -1,0 +1,11 @@
+@import '../../bower_components/ionic/scss/ionic';
+
+@import 'vars';
+@import 'typography';
+
+body {
+  font-family: Helvetica, sans-serif;
+  color: $font-color--dark;
+  background-color: $background--light;
+  padding: $half-space;
+}
